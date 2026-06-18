@@ -41,5 +41,4 @@ python -m streamlit run app.py
 🧰 Technology Stack
 Frontend Interface: Streamlit (Custom Minimal UI)
 Language Engine Model: Meta-Llama-3-8B-Instruct (Serverless Hub Router)
-
 Environment Management: Python-Dotenv
