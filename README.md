@@ -3,7 +3,7 @@
 A sleek, interactive webpage dashboard utilizing Python, Streamlit, and Hugging Face's serverless inference API to manage text tasks with Meta's Llama-3-8B-Instruct model.
 
 ### 🔗 Live Application Link
-👉 **[Click Here to Access the Live Dashboard]https://prompt-genai-app-8x363bjxxaadjyyxc4vtj6.streamlit.app/**
+👉 **[Click Here to Access the Live Dashboard](https://prompt-genai-app-8x363bjxxaadjyyxc4vtj6.streamlit.app/)**
 
 ---
 
